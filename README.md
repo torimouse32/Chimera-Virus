@@ -9,15 +9,6 @@
 ### 奇美拉病毒 · 角色点名簿
 
 一个私人的 OC 档案与灵感管理网站：角色档案、个人自设、世界观、关系图、灵感碎片、图片资料库、辅助工具链接，全部保存在你自己的浏览器里，无需账号，也没有服务器。
-视觉关键词：黑白拼贴、蓝紫、哥特建筑、鸟群与乌鸦、墨面转场。
-
-#### 快速开始
-
-1. 下载仓库，用浏览器直接打开 `index.html`，不需要安装或构建。
-2. 也可以放到 GitHub Pages 或任意静态托管上访问。
-3. 首次打开会播放开场动画（点击可跳过），并带有几条标注为「示例」的数据，可直接删除。
-
-需要联网加载：Google Fonts（Noto Sans SC / Noto Serif SC）、cdnjs 上的 `html2canvas 1.4.1` 与 `jsPDF 2.5.1`（仅导出图片 / PDF 时使用）。
 
 #### 功能
 
@@ -73,15 +64,6 @@
 ### キメラウイルス · キャラクター点呼簿
 
 オリジナルキャラクター（OC）の設定資料と、思いつきやアイデアを管理するための個人用サイトです。キャラクター設定、自設、世界観、関係図、断片メモ、画像アーカイブ、便利ツールのリンクまで、すべてあなた自身のブラウザ内に保存されます。アカウントもサーバーも不要です。
-ビジュアルのキーワード：モノクロのコラージュ、青紫、ゴシック建築、鳥の群れとカラス、墨のように覆うページ遷移。
-
-#### 使い方
-
-1. リポジトリをダウンロードし、`index.html` をブラウザで直接開くだけです。インストールやビルドは不要です。
-2. GitHub Pages など、静的ホスティングに置いても動作します。
-3. 初回はオープニングアニメーション（クリックでスキップ可）が流れ、「サンプル」と記された数件のデータが入っています。削除して構いません。
-
-オンラインで読み込むもの：Google Fonts（Noto Sans SC / Noto Serif SC）、cdnjs の `html2canvas 1.4.1` と `jsPDF 2.5.1`（画像・PDF 出力時のみ）。
 
 #### 機能
 
@@ -137,15 +119,6 @@
 ### Chimera Virus · Character Checkroll
 
 A private archive for original characters (OCs) and loose ideas: character files, a personal profile, worlds, relation maps, fragment notes, an image archive and a list of useful links. Everything is stored locally in your own browser — no account, no server.
-Visual keywords: black-and-white collage, blue-violet, Gothic architecture, flocks of birds and crows, ink-wash page transitions.
-
-#### Quick start
-
-1. Download the repository and open `index.html` in a browser. No installation or build step.
-2. You can also host it on GitHub Pages or any static host.
-3. On first launch an opening animation plays (click to skip) and a few items marked “sample” are included. Delete them freely.
-
-Loaded online: Google Fonts (Noto Sans SC / Noto Serif SC) and, from cdnjs, `html2canvas 1.4.1` and `jsPDF 2.5.1` (only used when exporting images / PDFs).
 
 #### Features
 
