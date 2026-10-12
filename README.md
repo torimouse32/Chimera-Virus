@@ -65,7 +65,6 @@
 #### 素材与版权
 
 素材由作者自行收集，文件名显示多数来自 Pixabay 等素材站。音频包括肖邦《第四叙事曲》钢琴版（背景音乐），以及转场音效 `freesound_community-pigeons-flying`、`lucadialessandro-sweet-transition`、`u_a4gfvwagf1-crow-sound-effect`、`dragon-studio-crow-caw-with-echoing-reverb`。
-**公开仓库前，请逐一确认每个图片和音频的许可证是否允许再分发**，并按需注明作者与来源。
 
 ---
 
@@ -130,7 +129,6 @@
 #### 素材と著作権
 
 素材は作者が各自集めたもので、ファイル名からその多くは Pixabay などの素材サイトのものと思われます。音声はショパン「バラード第4番」のピアノ演奏（BGM）と、トランジション音 `freesound_community-pigeons-flying`、`lucadialessandro-sweet-transition`、`u_a4gfvwagf1-crow-sound-effect`、`dragon-studio-crow-caw-with-echoing-reverb` です。
-**公開リポジトリにする前に、各画像・音声のライセンスが再配布を許可しているかを一つずつ確認し**、必要に応じて作者と出典を明記してください。
 
 ---
 
@@ -195,4 +193,3 @@ Loaded online: Google Fonts (Noto Sans SC / Noto Serif SC) and, from cdnjs, `htm
 #### Assets and copyright
 
 The assets were collected by the author; their file names suggest most come from Pixabay and similar sites. Audio includes a piano version of Chopin’s Ballade No. 4 (background music) and the transition sounds `freesound_community-pigeons-flying`, `lucadialessandro-sweet-transition`, `u_a4gfvwagf1-crow-sound-effect` and `dragon-studio-crow-caw-with-echoing-reverb`.
-**Before making the repository public, check one by one that each image and audio file’s license allows redistribution**, and credit authors and sources where needed.
